@@ -1,0 +1,7 @@
+services:
+  my-habit-app:
+    build: .
+    ports:
+      - "5173:80"
+    env_file:
+      - .env.local

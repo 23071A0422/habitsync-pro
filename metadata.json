@@ -1,0 +1,12 @@
+
+{
+  "name": "HabitSync Pro",
+  "description": "A social habit tracker that helps you build streaks and stay accountable with friends.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "permissions": [
+    "notifications"
+  ]
+}
